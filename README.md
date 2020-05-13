@@ -12,7 +12,7 @@ Java, Jsp, Servlet, My Sql Server and Jenkins.
 
 # Installation
 
-Use https://github.com/mbhavsar1994/ISI-Drone.git clone ISI-Drone.
+Use https://github.com/mhari1/ISIDrone.git clone ISI-Drone.
 Project is build and run with the pre installed Eclipse 2019-12
 
 # Usage
